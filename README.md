@@ -35,5 +35,5 @@ Aplikacja webowa z nowoczesnym interfejsem, zbudowana w Pythonie (Flask). Automa
 
 5. Otwórz przeglądarkę i przejdź pod adres:
    
-   ```[http://127.0.0.1:5000](http://127.0.0.1:5000)```
+   [http://127.0.0.1:5000](http://127.0.0.1:5000)
    
