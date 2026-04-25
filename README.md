@@ -1,4 +1,4 @@
-Image Color Palette Extractor
+# Image Color Palette Extractor
 
 Aplikacja webowa z nowoczesnym interfejsem, zbudowana w Pythonie (Flask). Automatycznie analizuje przesłane przez użytkownika zdjęcie i wyodrębnia z niego 10 dominujących kolorów, korzystając z algorytmu uczenia maszynowego.
 
